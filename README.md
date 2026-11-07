@@ -1,0 +1,2 @@
+# Autoscript
+Vpn script 
